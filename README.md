@@ -21,10 +21,10 @@ Here are some of my featured projects along with a brief description for each. Y
 
 Throughout my career, I have acquired skills in various areas of software development and technology. Here's a list of some of my key skills:
 
-- **Programming Languages**: JavaScript, Python, Java
-- **Technologies and Frameworks**: React, Three.js, Unity, OpenGL
+- **Programming Languages**: JavaScript, PHP.
+- **Technologies and Frameworks**: React, Laravel, Node.js
 - **Databases**: MySQL, MongoDB
-- **Tools and Development Environments**: Git, VS Code, Unity Editor
+- **Tools and Development Environments**: Git, VS Code
 
 ## Contribution
 
@@ -34,10 +34,9 @@ If you're interested in collaborating on any of my projects or have any ideas we
 
 You can find me on the following platforms:
 
-- **Email**: alejandro.calquin@email.com
-- **Website**: [alejandrocalquin.com](https://www.alejandrocalquin.com)
-- **LinkedIn**: [linkedin.com/in/alejandrocalquin](https://www.linkedin.com/in/alejandrocalquin)
-- **Twitter**: [@alecalquin](https://twitter.com/alecalquin)
+- **Email**: acalquinpenna@email.com
+- **LinkedIn**: https://www.linkedin.com/in/alejandro-calquin-penna-8b6866273/
+
 
 ## Blog
 
@@ -69,10 +68,10 @@ Aquí te presento algunos de mis proyectos destacados junto con una breve descri
 
 A lo largo de mi carrera, he adquirido habilidades en diversas áreas de desarrollo de software y tecnología. Aquí hay una lista de algunas de mis habilidades clave:
 
-- **Lenguajes de programación**: JavaScript, Python, Java
-- **Tecnologías y frameworks**: React, Three.js, Unity, OpenGL
+- **Lenguajes de programación**: JavaScript, PHP
+- **Tecnologías y frameworks**: React, Laravel, Node.js
 - **Bases de datos**: MySQL, MongoDB
-- **Herramientas y entornos de desarrollo**: Git, VS Code, Unity Editor
+- **Herramientas y entornos de desarrollo**: Git, VS Code
 
 ## Contribución
 
@@ -82,10 +81,9 @@ Si estás interesado en colaborar en alguno de mis proyectos o tienes alguna ide
 
 Puedes encontrarme en las siguientes plataformas:
 
-- **Email**: alejandro.calquin@email.com
-- **Sitio web**: [alejandrocalquin.com](https://www.alejandrocalquin.com)
-- **LinkedIn**: [linkedin.com/in/alejandrocalquin](https://www.linkedin.com/in/alejandrocalquin)
-- **Twitter**: [@alecalquin](https://twitter.com/alecalquin)
+- **Email**: acalquinpenna@email.com
+- **LinkedIn**: https://www.linkedin.com/in/alejandro-calquin-penna-8b6866273/
+
 
 ## Blog
 
