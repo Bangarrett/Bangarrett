@@ -1,7 +1,7 @@
 const readmeEnglish = `
 # Alejandro Calquin
 
-![Banner](path/to/your/alejandro.png)
+[![Banner](path/to/your/alejandro.png)](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/Alejandro.png)
 
 Brief description about me and my interests.
 
