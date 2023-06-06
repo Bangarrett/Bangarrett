@@ -1,7 +1,7 @@
 const readmeEnglish = `
 # Alejandro Calquin
 
-![Banner](path/to/your/banner.png)
+![Banner](path/to/your/alejandro.png)
 
 Brief description about me and my interests.
 
