@@ -36,7 +36,7 @@ You can find me on the following platforms:
 const readmeSpanish = `
 # Alejandro Calquin
 
-![Banner](ruta/a/tu/banner.png)
+
 
 Breve descripción sobre mí y mis intereses.
 
