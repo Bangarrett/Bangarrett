@@ -1,8 +1,6 @@
 const readmeEnglish = `
 # Alejandro Calquin
 
-[![Banner](path/to/your/alejandro.png)](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/Alejandro.png)
-
 Brief description about me and my interests.
 
 ## About Me
@@ -36,14 +34,6 @@ You can find me on the following platforms:
 
 - **Email**: acalquinpenna@email.com
 - **LinkedIn**: https://www.linkedin.com/in/alejandro-calquin-penna-8b6866273/
-
-
-## Blog
-
-If you enjoy reading about technology and software development, I invite you to visit my blog where I share my ideas and knowledge. [alejandrocalquin.com/blog](https://www.alejandrocalquin.com/blog)
-
-I hope this example with some visual effects inspires you to create a striking presentation on your GitHub profile! Remember to customize it with your own information and add images and visual effects that reflect your passion and skills in this field.
-`;
 
 const readmeSpanish = `
 # Alejandro Calquin
@@ -84,13 +74,6 @@ Puedes encontrarme en las siguientes plataformas:
 - **Email**: acalquinpenna@email.com
 - **LinkedIn**: https://www.linkedin.com/in/alejandro-calquin-penna-8b6866273/
 
-
-## Blog
-
-Si disfrutas leyendo sobre tecnología y desarrollo de software, te invito a visitar mi blog, donde comparto mis ideas y conocimientos. [alejandrocalquin.com/blog](https://www.alejandrocalquin.com/blog)
-
-¡Espero que este ejemplo adaptado con algunos efectos visuales te inspire para crear una presentación impactante en tu perfil de GitHub! Recuerda personalizarlo con tu propia información y añadir imágenes y efectos visuales que reflejen tu pasión y habilidades en este campo.
-`;
 
 const combinedReadme = readmeEnglish + "\n\n" + readmeSpanish;
 
