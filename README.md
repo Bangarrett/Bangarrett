@@ -1,7 +1,7 @@
 const readmeEnglish = `
-# Alejandro Calquin
+
 ![imgAlejandro (1)](https://github.com/Bangarrett/Bangarrett/assets/126791771/15b400ff-845f-4db6-b0f3-955d254e8cc9)
-Brief description about me and my interests.
+
 
 ## About Me
 
